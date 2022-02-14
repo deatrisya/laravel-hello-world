@@ -127,7 +127,13 @@
                     </div>
                 </div>
             </div> -->
-            <h1 class="dark:text-gray-500">Deatrisya Mirela Harahap</h1>
+            <div class="flex">
+                <h1 class="dark:text-gray-500">Deatrisya Mirela Harahap</h1>
+            </div>
+            
+            <div class="flex justify-center mt-4 sm:items-center sm:justify-between ml-4">
+                <h3 class="dark:text-gray-500">D4 Teknik Informatika</h3>
+            </div>
         </div>
     </body>
 </html>
